@@ -1,5 +1,5 @@
 # 💫 About Me:
-I worked as Associate Software Engineer at IDEMIA.<br><br>Here are my key skills:<br>- C++, Python<br>- Data Structures and Algorithms, Data Base Management System (basic)<br>- Frontend: HTML&CSS, Bootstrap, JavaScript<br>- Backend: Node.js, Express.js <br><br> 
+I worked as Associate Software Engineer at IDEMIA.<br><br>Here are my key skills:<br>- C++, Python<br>- Data Structures and Algorithms, Data Base Management System (basic)<br>- Frontend: HTML&CSS, Bootstrap, JavaScript, React<br>- Backend: Node.js, Express.js <br><br> 
 
 
 ## 🌐 Socials:
